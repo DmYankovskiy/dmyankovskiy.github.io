@@ -63,8 +63,8 @@ body {
 
 .burger-menu {
     position: absolute;
-    top: 340px;
-    right: 0;
+    top: 58px;
+    left: 0;
     transform: translateY(-200%);
     transition: all .7s;
 }
@@ -81,7 +81,7 @@ body {
 }
 
 .burger-menu__item {
-    text-align: right;
+    text-align: left;
 }
 
 .burger-menu__link {
