@@ -63,7 +63,7 @@ body {
 
 .burger-menu {
     position: absolute;
-    top: 58px;
+    top: 95px;
     right: 0;
     transform: translateY(-200%);
     transition: all .7s;
@@ -386,6 +386,10 @@ body {
         left: 20px;
         width: 40px;
         height: 40px;
+    }
+    
+    .burger-menu {
+        top: 58px;
     }
 
     .social__list {
