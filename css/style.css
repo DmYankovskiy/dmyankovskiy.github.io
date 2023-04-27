@@ -393,6 +393,11 @@ body {
         top: 20px;
         right: 20px;
     }
+    
+    .menu{
+        display: none;
+    }
+    
 
     .menu__list {
         display: block;
